@@ -1,0 +1,35 @@
+.section{
+  width: 700px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+td,th{
+  margin: 100px;
+}
+
+.model{
+  width: 200px;
+  margin: 50px;
+}
+
+.inside{
+  width: 200px;
+}
+
+.h4{
+  align-items: center;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(24, 10, 10);
+}
+
+table{
+  border-radius: 5px;
+}
+.sidebar{
+  position: absolute;
+  
+}
